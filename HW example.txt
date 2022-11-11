@@ -1,0 +1,5 @@
+Locator Name 
+
+1. Logo=xpath=.//div[@class='blabla']//a[@data-atribute='123']
+2. Button_A=xpath=.//button[@id='bla123']
+3. etc.
