@@ -1,0 +1,20 @@
+1 .ng-tns-c56-2.p-autocomplete-input.p-inputtext.p-component.ng-star-inserted 
+
+2 .header__switcher .switcher__circle
+
+3 .filter-container .filter
+
+4. //div[@class="filter-by-apps__items__left"]/button[./div[text() = "JIRA"]]
+
+5 //div[@class="filter-by-apps__items__left"]/button[./div[text() = "SNOW"]]
+
+6 .profile-menu .profile
+
+7 div.profile-menu .nav-menu-item.ng-star-inserted.nav-menu-item--active
+
+8 .sidebar-open-button-container.ng-tns-c29-0.ng-star-inserted
+
+9 a.apps__see-all
+
+10 .made-withlove.ng-tns-c29-0
+
