@@ -1,0 +1,12 @@
+Locators Playtispace
+
+1. Search field=xpath=.//header[@class="header"]//input[@role="searchbox"]
+2. Switcher=css=[for="checkbox"],     xpath=.//div/label
+3. Dropdown=xpath=.//div[@class="filter"]
+4. JIRA button=xpath=.//div[@class="filter-by-apps__items__left"]/button[2]
+5. SNOW button=xpath=.//div[@class="filter-by-apps__items__left"]/button[3]
+6. Profile link=css=a.profile
+7. Calendar button=xpath=.//app-global-profile//a[@href="/calendar"]
+8. Arrow button=xpath=.//global-sidebar-with-dashboard/div/div/div[1]/div[1]
+9. See all link=css=a.apps__see-all
+10. Text=css=div.made-withlove.ng-tns-c29-0
