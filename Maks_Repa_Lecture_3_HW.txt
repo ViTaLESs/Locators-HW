@@ -1,0 +1,10 @@
+1.Search=xpath=.//span[@class="ng-tns-c56-2 header__search-input p-autocomplete p-component"]/input
+2.Switcher_field=css=div.header__switcher
+3.Dropdown=css=div.filter__text
+4.Jira_button=xpath=.//div[@class="filter-by-apps__items__left"]/button[2]
+5.Snow_button=xpath=.//div[@class="filter-by-apps__items__left"]/button[3]
+6.Profile_link=xpath=.//div[@class="profile-menu"]//a[2]
+7.Calendar_button=xpath=.//ul [@class="nav-menu ng-star-inserted"]/li[6]/a
+8.Arrow_button=css=sidebar-open-button-container ng-tns-c29-0 ng-star-inserted
+9.See_all_link=xpath=.//a[@href="/apps" and @class="apps__see-all"]
+10.Text=css=div.ng-tns-c29-0 ~ div div.made-withlove
