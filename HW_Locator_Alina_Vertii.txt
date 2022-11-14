@@ -1,0 +1,17 @@
+Locator Name 
+
+1. Logo=xpath=.//div[@class='blabla']//a[@data-atribute='123']
+2. Button_A=xpath=.//button[@id='bla123']
+3. etc.
+
+
+1. Search_field=xpath=.//div[@class='header-wrapper']//span[@class='ng-tns-c56-2 header__search-input p-autocomplete p-component']
+2. Switcher=css=label.switcher__checkbox
+3. Dropdown=xpath=.//div[@class='filter__text' and text()='Old to new']
+4. Jira_button=xpath=.//button//div[@class='dropdown__item-text' and text()='JIRA']
+5. Snow_button=xpath=.//button//div[@class='dropdown__item-text' and text()='SNOW']
+6. Profile link=xpath=.//a[@class='profile' and @href="/personal-area/profile"]
+7. Calendar button=xpath=.//ul[@class='nav-menu ng-star-inserted']//a[@href="/calendar"]
+8. Arrow_button=xpath=.//div[@class='sidebar-menu ng-tns-c29-0']//img[@src="/assets/images/global/red-arrow-icon.png"]
+9. See_all=xpath=.//a[@class='apps__see-all' and @href="/apps"]
+10. Text=xpath=.//div[@class='sidebar-footer ng-tns-c29-0']//div[text()=' Made with ']
