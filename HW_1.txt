@@ -1,0 +1,12 @@
+Locator Name 
+
+1. Search=xpath=.//span[contains(@class,'2 header')]/input
+2. Switcher=xpath=.//div[@class="filters__right"]//label
+3. Dropdown=css=div[class="filter"]
+4. Button_Jira=xpath=.//button[@class="app-filter-item ng-star-inserted"]//div[text()="JIRA"]/..
+5. Button_Snow=xpath=.//button[@class="app-filter-item ng-star-inserted"]//div[text()="SNOW"]/..
+6. Link_Profile=xpath=.//a[@class="profile" and @href="/personal-area/profile"]
+7. Button_Calendar=css=a[href="/calendar"]
+8. Button_Arrow=xpath=.//div[contains(@class,'sidebar-open-button-container')]
+9. Link_SeeAll=xpath=.//a[@class="apps__see-all" and @href="/apps"]
+10. Text_MadeWith=xpath=.//div[text()=" Made with "]
