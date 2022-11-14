@@ -1,0 +1,10 @@
+1. Search = .//input[@class = "ng-tns-c56-2 p-autocomplete-input p-inputtext p-component ng-star-inserted"]
+2. Swaitcher = .//div[@class = "header__switcher switcher"]
+3. Dropdown = .//div[@class = "filter-container"]
+4. Jira = .//div[text() = "JIRA"]/..
+5. Snow = .//div[text() = "SNOW"]/..
+6.Profile link = .//a[@class="profile"]
+7. Calendar = .//app-global-nav-menu/ul[@class ="nav-menu ng-star-inserted"]/li[6]/a[@class = "nav-menu-item ng-star-inserted"]
+8  Arrow button = .//div[@class = "sidebar-open-button-container ng-tns-c29-0 ng-star-inserted"]
+9. See all = .//a[@class ="apps__see-all"]
+10. Text = .//div[@class ="made-withlove ng-tns-c29-0"]
