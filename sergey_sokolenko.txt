@@ -1,0 +1,13 @@
+Locator Name 
+
+1. Search field=xpath=.//input[@role="searchbox"]
+2. Switcher=xpath=.//input[@id="checkbox"]
+3. Dropdown=CSS selectors=div[class=filter-container]
+4. JIRA button=CSS selectors=button[class="app-filter-item ng-star-inserted"]
+5. SNOW button=CSS selectors=button[class="app-filter-item ng-star-inserted"]
+6. Profile link=CSS selectors=a[href="/personal-area/profile"]
+7. Calendar button=xpath=.//a[@class="nav-menu-item ng-star-inserted" and @href="/calendar"]
+8. Arrow button=xpath=.//div[@class="sidebar-open-button-container ng-tns-c29-0 ng-star-inserted"]
+9. See all link=xpath=.//a[@class="apps__see-all"]
+10. Text=xpath=.//div[text()=" Made with " and text()=" by MIS "]
+
