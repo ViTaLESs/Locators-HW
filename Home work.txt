@@ -1,0 +1,98 @@
+Locator Names 
+
+1. Search 	      field=xpath=//div[@class='header-wrapper']//app-search-header
+2. Switch 	      field=xpath=//div[@class='header__switcher switcher']
+3. Dropdown 	      field=xpath=//div[@class='filter-container']
+4. Jira button 	      field=xpath=//div[text()='JIRA']/..
+5. Snow Button 	      field=xpath=//div[text()='SNOW']/..
+6.Profile link        field=xpath=//a[@class='profile']
+7.Calendar button     field=xpath=//app-global-profile//a[@href='/calendar']
+8.Arrow button        field=xpath=//div[@class='sidebar-open-button-container ng-tns-c29-0 ng-star-inserted']
+9.See all link        field=xpath=//a[@class='apps__see-all']
+10.Text               field=xpath=//div[@class="made-withlove ng-tns-c29-0"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
